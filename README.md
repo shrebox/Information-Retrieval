@@ -3,6 +3,7 @@
 This repository includes the codes for the following topics:
 
 1. [Inverted and Positional Indexing](https://github.com/shrebox/Information-Retrieval/tree/master/1.%20Inverted%20and%20Positional%20Indexing)
+2. [TF-IDF Document Retrieval](https://github.com/shrebox/Information-Retrieval/tree/master/2.%20TF-IDF%20Document%20Retrieval)
 
 Each directory contains these files:
 
