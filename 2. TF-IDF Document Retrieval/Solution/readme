@@ -1,0 +1,21 @@
+Author @ Shreyash Arya (2015097)
+
+Assignment 2: Information Retrieval (CSE508)
+
+Files:
+
+Code: 'tfidf.py', 'tfidf.ipynb'
+Saved Dictionaries: ‘vocab.pkl’, ‘prepro_files.pkl’, ‘name_to_count.pkl’, ‘count_to_name.pkl’, ‘tf_dic.pkl’, ‘tf_tit_dic.pkl’, ‘df_tit_dic.pkl’, ‘{document_term_tfidf_pkls.zip: document_term_tfidf.pkl; GDrive link below}’.
+Text files: 'Report.pdf', 'readme'
+
+To run the program:
+
+* Keep all the dictionaries in the same folder as the code files.
+* Command: $ python 'code_file_name.py' 
+
+Gdrive link to pkls: https://drive.google.com/file/d/1IixXs5JjYiU09NyKHpOTNrukwYWu16P9/view?usp=sharing
+
+References:
+
+Class lecture slides available on classroom.
+https://masongallo.github.io/machine/learning,/python/2016/07/29/cosine-similarity.html

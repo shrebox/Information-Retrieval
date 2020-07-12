@@ -2,7 +2,7 @@ Files:
 
 Code: 'inverted_index.py', 'positional_indexing.py'
 Saved Dictionaries: 'filename_mappings.pkl', 'file_to_index_mappings_with_stopwords_q3.pkl', 'index_to_file_mappings_with_stopwords_q3.pkl', 'inverted_index.pkl', 'phrasal_inverted_index_with_stopwords_q3.pkl'
-Text files: 'Analysis_ShreyashArya_2015097.pdf', 'readme'
+Text files: 'Report.pdf', 'readme'
 
 To run the program:
 

@@ -1,0 +1,3740 @@
+(dp0
+S'igiv'
+p1
+(dp2
+S'title'
+p3
+S'I Give Up, by Thomas Nevin Huber'
+p4
+sS'size'
+p5
+I18304
+ssS'weeprncs.txt'
+p6
+(dp7
+g3
+S'The Weeping Princess'
+p8
+sg5
+I5363
+ssS'18.lws'
+p9
+(dp10
+g3
+S'The Couch, the File Cabinet, and the Calendar, by M. Peshota (December 9, 1991)'
+p11
+sg5
+I26624
+ssS'aminegg.txt'
+p12
+(dp13
+g3
+S'The Fable of Amin and the Eggs'
+p14
+sg5
+I1987
+ssS'ccm.txt'
+p15
+(dp16
+g3
+S'The Fable of the Cock, the Cat, and the Mouse'
+p17
+sg5
+I2233
+ssS'bulphrek.txt'
+p18
+(dp19
+g3
+S'A Phreak Encounter (Story)'
+p20
+sg5
+I47098
+ssS'haretort.txt'
+p21
+(dp22
+g3
+S'The Fable of the Hare and the Tortoise'
+p23
+sg5
+I2271
+ssS'beautbst.txt'
+p24
+(dp25
+g3
+S'The Story of Beauty and the Beast'
+p26
+sg5
+I7543
+ssS'tinsoldr.txt'
+p27
+(dp28
+g3
+S'The Tin Soldier (Story)'
+p29
+sg5
+I6944
+ssS'domain.poe'
+p30
+(dp31
+g3
+S'The Domain of Arnheim'
+p32
+sg5
+I36642
+ssS'alissadl.txt'
+p33
+(dp34
+g3
+S"The Fable of Ali and the Sultan's Saddle"
+p35
+sg5
+I2169
+ssS'zombies.txt'
+p36
+(dp37
+g3
+S'Zombies by Suzanne L. McAllister (Spoof/Tribute of George Romero Living Dead Movies)'
+p38
+sg5
+I61632
+ssS'blackp.txt'
+p39
+(dp40
+g3
+S'The Adventure of Black Peter'
+p41
+sg5
+I45211
+ssS'tcoa.txt'
+p42
+(dp43
+g3
+S'The Cask of Amontilado, by Edgar Allan Poe'
+p44
+sg5
+I13216
+ssS'forgotte'
+p45
+(dp46
+g3
+S'Forgotten Souls by CAC/The Stinker'
+p47
+sg5
+I77918
+ssS'batlslau.txt'
+p48
+(dp49
+g3
+S'Collection of Additional Rules for Battletech, by Matt Murphy'
+p50
+sg5
+I101404
+ssS'fantas.hum'
+p51
+(dp52
+g3
+S'Pricilla, the Trout Princess, by Gerald E. Gregg'
+p53
+sg5
+I10454
+ssS'fowl.death'
+p54
+(dp55
+g3
+S'Fowl Death by Nuclear Deth (April 7, 1987)'
+p56
+sg5
+I3328
+ssS'abbey.txt'
+p57
+(dp58
+g3
+S'The Adventure of the Abbey Grange (RP Story)'
+p59
+sg5
+I50426
+ssS'fantasy.txt'
+p60
+(dp61
+g3
+S'The Blab Fantasy novel-Ripped off and edited by The Slipped Disk'
+p62
+sg5
+I16347
+ssS'lionmosq.txt'
+p63
+(dp64
+g3
+S'The Fable of the Lion and the Mosquito'
+p65
+sg5
+I1892
+ssS'blossom.pom'
+p66
+(dp67
+g3
+S'Little Quaint list of Funny Names to Tell a story.'
+p68
+sg5
+I1287
+ssS'altside.hum'
+p69
+(dp70
+g3
+S'Alternate Side of the Street; Screenplay by Jeff Massie'
+p71
+sg5
+I29231
+ssS'wall.art'
+p72
+(dp73
+g3
+S'The Wall, from Karl L. Sandwell-Weiss'
+p74
+sg5
+I1924
+ssS'aircon.txt'
+p75
+(dp76
+g3
+S'The Air Conditioning Story'
+p77
+sg5
+I2517
+ssS'enya_trn.txt'
+p78
+(dp79
+g3
+S'English Translations of _The Celts_, _Watermark_, and _Shepherd Moons_, by Enya'
+p80
+sg5
+I27011
+ssS'silverb.txt'
+p81
+(dp82
+g3
+S'Silver Blaze (Story)'
+p83
+sg5
+I54159
+ssS'tearglas.txt'
+p84
+(dp85
+g3
+S'Tears of Glass by Kimberly Ann Carter (1992)'
+p86
+sg5
+I31407
+ssS'imonly17.txt'
+p87
+(dp88
+g3
+S"Please, God, I'm Only 17... by the Elite Executives"
+p89
+sg5
+I3590
+ssS'discocanbefun.txt'
+p90
+(dp91
+g3
+S'Disco Can Be Fun by Aldebaran of 11th Hour Productions'
+p92
+sg5
+I3921
+ssS'bulolli2.txt'
+p93
+(dp94
+g3
+S"The Adventures of Cap'n Roger (Part 2)"
+p95
+sg5
+I3383
+ssS'kzap.txt'
+p96
+(dp97
+g3
+S"KZAP's Psychedelic Sunday"
+p98
+sg5
+I10120
+ssS'bureau.txt'
+p99
+(dp100
+g3
+S'The Bureau of Procuration (Story)'
+p101
+sg5
+I158330
+ssS'omarsheh.txt'
+p102
+(dp103
+g3
+S'The Fable of Prince Omar and Princess Sheherazade'
+p104
+sg5
+I8280
+ssS'aluminum.hum'
+p105
+(dp106
+g3
+S'An Aluminum Can A Day, by Carl Mitchell'
+p107
+sg5
+I11596
+ssS'buldream.txt'
+p108
+(dp109
+g3
+S'Dreamworld, by Zaphod Beeblebrox'
+p110
+sg5
+I12089
+ssS'elveshoe.txt'
+p111
+(dp112
+g3
+S'The Elves and the Shoemaker'
+p113
+sg5
+I2683
+ssS'17.lws'
+p114
+(dp115
+g3
+S'The Early Days of a High-Tech Start-up are Magic (November 18, 1991) by M. Peshota'
+p116
+sg5
+I10853
+ssS'bulironb.txt'
+p117
+(dp118
+g3
+S'Story: Iron Man'
+p119
+sg5
+I11842
+ssS'nigel.10'
+p120
+(dp121
+g3
+S'The Saga of Nigel the Hedgehog 10 (July 6, 1989)'
+p122
+sg5
+I16096
+ssS'blue'
+p123
+(dp124
+g3
+S'Soldier Blue, by Rick Arnold'
+p125
+sg5
+I21423
+ssS'flytrunk.txt'
+p126
+(dp127
+g3
+S'The Story of the Flying Trunk'
+p128
+sg5
+I2007
+ssS'tctac.txt'
+p129
+(dp130
+g3
+S'The Cockroach that Ate Cincinatti (Poem)'
+p131
+sg5
+I2301
+ssS'excerpt.txt'
+p132
+(dp133
+g3
+S'A Relevant Excerpt from "The Snarkout Boys and the Avocado of Death", by Daniel Manus Pinkwater.'
+p134
+sg5
+I6036
+ssS'3wishes.txt'
+p135
+(dp136
+g3
+S'The Story of the Three Wishes'
+p137
+sg5
+I4351
+ssS'wombat.und'
+p138
+(dp139
+g3
+S'The Story of the Wombat, from Floyd Gecko'
+p140
+sg5
+I2320
+ssS'hareporc.txt'
+p141
+(dp142
+g3
+S'The Fable of the Hare and the Porcupine'
+p143
+sg5
+I4044
+ssS'valen'
+p144
+(dp145
+g3
+S'Valentine, Story by George Willard'
+p146
+sg5
+I14686
+ssS'tao3.dos'
+p147
+(dp148
+g3
+S'The Tao Te Ching, translated by James Legge'
+p149
+sg5
+I52914
+ssS'retrib.txt'
+p150
+(dp151
+g3
+S'Retribution by Andrew Varga (1991)'
+p152
+sg5
+I16581
+ssS'7oldsamr.txt'
+p153
+(dp154
+g3
+S'The Seven Old Samurai'
+p155
+sg5
+I2753
+ssS'wolflamb.txt'
+p156
+(dp157
+g3
+S'The Wolf and the Lamb'
+p158
+sg5
+I1767
+ssS'burn'
+p159
+(dp160
+g3
+S'The Burn: A Synopsis by Michael C. McPherson'
+p161
+sg5
+I2598
+ssS'3sonnets.vrs'
+p162
+(dp163
+g3
+S'A Collection of Sonnets by Staeorra Rokraven (March 9, 1989)'
+p164
+sg5
+I2433
+ssS'diaryflf.txt'
+p165
+(dp166
+g3
+S'The Diary of the Swarves'
+p167
+sg5
+I47512
+ssS'knuckle.txt'
+p168
+(dp169
+g3
+S'The Story of Knucklebones'
+p170
+sg5
+I23202
+ssS'angelfur.hum'
+p171
+(dp172
+g3
+S"Angel's Fur, by Piper Sickles"
+p173
+sg5
+I13376
+ssS'goldenp.txt'
+p174
+(dp175
+g3
+S'The Adventure of the Golden Pince-Nez'
+p176
+sg5
+I49790
+ssS'shrdfarm.txt'
+p177
+(dp178
+g3
+S"A Shrewd Farmer's Story (Fable)"
+p179
+sg5
+I4775
+ssS'girlclub.txt'
+p180
+(dp181
+g3
+S'The Girl of the Month Club by Colin Campbell'
+p182
+sg5
+I52403
+ssS'startrek.txt'
+p183
+(dp184
+g3
+S'Startrek, The Ultimate Story!'
+p185
+sg5
+I8473
+ssS'dakota.txt'
+p186
+(dp187
+g3
+S'Rifts World Book: North Dakota by Sean Satterlee'
+p188
+sg5
+I151783
+ssS'ab40thv.txt'
+p189
+(dp190
+g3
+S'The Story of Ali Baba and the 40 Thieves'
+p191
+sg5
+I11850
+ssS'sanpedr2.txt'
+p192
+(dp193
+g3
+S'The Fruit of the Gods: Trichoserus Pachanoi'
+p194
+sg5
+I7322
+ssS'flute.txt'
+p195
+(dp196
+g3
+S'The Spirit and the Flute (How Flutes Relate to History)'
+p197
+sg5
+I3038
+ssS'bulzork1.txt'
+p198
+(dp199
+g3
+S"The Zorker's Story (Story)"
+p200
+sg5
+I24576
+ssS'eyeargon.hum'
+p201
+(dp202
+g3
+S'The Eye of Argon, by Jim Theis'
+p203
+sg5
+I70912
+ssS'lure.txt'
+p204
+(dp205
+g3
+S'The Lure of the Temptress (Soft Documentation)'
+p206
+sg5
+I25546
+ssS'assorted.txt'
+p207
+(dp208
+g3
+S'FICTION: Yahoo! The Ohio VOW has The Bomb by Gregory S. Swann (1986)'
+p209
+sg5
+I12535
+ssS'19.lws'
+p210
+(dp211
+g3
+S'Engineering the Future of American Technology by M. Peshota (January 5, 1992)'
+p212
+sg5
+I17902
+ssS'perf'
+p213
+(dp214
+g3
+S'Picture Perfect, by Roberta Belinda'
+p215
+sg5
+I35939
+ssS'SRE/sre02.txt'
+p216
+(dp217
+g3
+S'Solar Realms Elite: The True Story of the Unsung Heroes, by Josh Renaud'
+p218
+sg5
+I5862
+ssS'superg1'
+p219
+(dp220
+g3
+S'The Story of SUPERGUY!!'
+p221
+sg5
+I50938
+ssS'non4'
+p222
+(dp223
+g3
+S'A Panacea for Cheezy Movies by L. Shawn Aiken'
+p224
+sg5
+I8370
+ssS'non3'
+p225
+(dp226
+g3
+S'If I Had One Wish... by L.J. Herbert (1993)'
+p227
+sg5
+I2525
+ssS'non2'
+p228
+(dp229
+g3
+S'Musings by Joe DeRouen (1993)'
+p230
+sg5
+I2963
+ssS'3gables.txt'
+p231
+(dp232
+g3
+S'The Adventure of the Three Gables'
+p233
+sg5
+I33985
+ssS'radar_ra.txt'
+p234
+(dp235
+g3
+S'Interview with the Radar Ranger: A Work of Fiction by D. Railleur'
+p236
+sg5
+I302831
+ssS'hotline1.txt'
+p237
+(dp238
+g3
+S'Hotline! by James Zachary'
+p239
+sg5
+I3243
+ssS'crazy.hum'
+p240
+(dp241
+g3
+S'Crazy Glue, a Novel by Jerry Slaff'
+p242
+sg5
+I65666
+ssS'ezoff'
+p243
+(dp244
+g3
+S'EZ Work, by Gay Bost'
+p245
+sg5
+I14835
+ssS'beast.asc'
+p246
+(dp247
+g3
+S'A Collection of Fiction about The Beast'
+p248
+sg5
+I52273
+ssS'dwar'
+p249
+(dp250
+g3
+S'Dwarf, by Jeroen Van Drie'
+p251
+sg5
+I4602
+ssS'breaks1.asc'
+p252
+(dp253
+g3
+S'Breaks: The Adventures of Richard Nixon in the 21st Century, by Philip H. Farber (1992-1993)'
+p254
+sg5
+I151858
+ssS'mouslion.txt'
+p255
+(dp256
+g3
+S'The Story of the Mouse and the Lion'
+p257
+sg5
+I1957
+ssS'13chil.txt'
+p258
+(dp259
+g3
+S'The Story of the Sly Fox'
+p260
+sg5
+I8457
+ssS'contrad1.hum'
+p261
+(dp262
+g3
+S'Contradiction 1, by Rick Brunet'
+p263
+sg5
+I1397
+ssS'chik'
+p264
+(dp265
+g3
+S'City Chicken, by D. M. Hanna'
+p266
+sg5
+I9990
+ssS'social.vikings'
+p267
+(dp268
+g3
+S'Social Vikings by Flat Tire (August 5, 1988)'
+p269
+sg5
+I6784
+ssS'cameloto.hum'
+p270
+(dp271
+g3
+S'Some aborted attempt at a screenplay, maybe'
+p272
+sg5
+I1956
+ssS'friends.txt'
+p273
+(dp274
+g3
+S'Friends: A Story'
+p275
+sg5
+I76566
+ssS'pepsi.degenerat'
+p276
+(dp277
+g3
+S'Pepsi Degeneration by Morpheous of LOM'
+p278
+sg5
+I4480
+ssS'blackrdr'
+p279
+(dp280
+g3
+S'A Few Words About The Black Rider (German Literature)'
+p281
+sg5
+I4148
+ssS'corcor.hum'
+p282
+(dp283
+g3
+S'Corcoran, by Bruce Drake'
+p284
+sg5
+I40142
+ssS'sis'
+p285
+(dp286
+g3
+S'Sister Mary Agnes by Gay Bost'
+p287
+sg5
+I9780
+ssS'enc'
+p288
+(dp289
+g3
+S'Encoded in Strands, by Gay Bost'
+p290
+sg5
+I12888
+ssS'bulmrx.txt'
+p291
+(dp292
+g3
+S"They Don't Come Any Larger: The Continuing Adventures of Mr. X."
+p293
+sg5
+I57265
+ssS'quot'
+p294
+(dp295
+g3
+S'A Collection of Quotes by Poets about Poetry'
+p296
+sg5
+I3388
+ssS'hellmach.txt'
+p297
+(dp298
+g3
+S'The Hell Machine, by James C. Lynn (1990)'
+p299
+sg5
+I110143
+ssS'alad10.txt'
+p300
+(dp301
+g3
+S'Aladdin and the Wonderful Lamp'
+p302
+sg5
+I29051
+ssS'write'
+p303
+(dp304
+g3
+S'The Three Golden Rules of Poetry by Michael Howard'
+p305
+sg5
+I2695
+ssS'wolfcran.txt'
+p306
+(dp307
+g3
+S'The Wolf and the Crane'
+p308
+sg5
+I2366
+ssS'greatlrn.leg'
+p309
+(dp310
+g3
+S'The Great Learning: The Text of Confucious'
+p311
+sg5
+I18458
+ssS'toilet.s'
+p312
+(dp313
+g3
+S'My Toilet, my Kingdom, by Bill Luby (1994)'
+p314
+sg5
+I1965
+ssS'hotline3.txt'
+p315
+(dp316
+g3
+S'Hotline! Part III, by James Zachary'
+p317
+sg5
+I3000
+ssS'fran'
+p318
+(dp319
+g3
+S'Cheese or These? By Francis U. Kaltenbaugh'
+p320
+sg5
+I13488
+ssS'hitch2.txt'
+p321
+(dp322
+g3
+S'Complete Transcription of Douglas Adams\' "Restaurant at the End of the Universe"'
+p323
+sg5
+I330566
+ssS'hareleph.txt'
+p324
+(dp325
+g3
+S'The Fable of the Hare and the Elephant'
+p326
+sg5
+I1696
+ssS'cardcnt.txt'
+p327
+(dp328
+g3
+S'Accounting for the Cards by H. R. Valimaa'
+p329
+sg5
+I39098
+ssS'burltrs'
+p330
+(dp331
+g3
+S'The Letters of William S. Burroughs (1945-1959) by Oliver Harris'
+p332
+sg5
+I2232
+ssS'sre-dark.txt'
+p333
+(dp334
+g3
+S"SRE's Darker Half, by Chris Trendle, Paul Gerth and Robert Chapman"
+p335
+sg5
+I33666
+ssS'narciss.txt'
+p336
+(dp337
+g3
+S'The Story of Narcissus'
+p338
+sg5
+I1383
+ssS'fourth.fic'
+p339
+(dp340
+g3
+S'Another Fourth of July, by Jeff Epstein'
+p341
+sg5
+I3815
+ssS'testpilo.hum'
+p342
+(dp343
+g3
+S'Test Pilot, Story by John Vornholt'
+p344
+sg5
+I16609
+ssS'20.lws'
+p345
+(dp346
+g3
+S'What Research and Development Was Always Meant to Be, by M. Peshota'
+p347
+sg5
+I13588
+ssS'aislesix.txt'
+p348
+(dp349
+g3
+S'Aisle Six, by Morpheous, an LOM Release'
+p350
+sg5
+I4815
+ssS'cabin.txt'
+p351
+(dp352
+g3
+S'The Cabin, by Adam Poszar (1991)'
+p353
+sg5
+I2339
+ssS'fantasy.hum'
+p354
+(dp355
+g3
+S'The Blab Fantasy Novel'
+p356
+sg5
+I16428
+ssS'imagin.hum'
+p357
+(dp358
+g3
+S'Just Imagine: A Story'
+p359
+sg5
+I11169
+ssS'game.txt'
+p360
+(dp361
+g3
+S'The Game, by Suki'
+p362
+sg5
+I10638
+ssS'tailbear.txt'
+p363
+(dp364
+g3
+S'The Tail of the Bear: A Fable'
+p365
+sg5
+I2695
+ssS'excerpt.hum'
+p366
+(dp367
+g3
+S'The Snarkout Boys and the Avocado of Death'
+p368
+sg5
+I5589
+ssS'jackbstl.txt'
+p369
+(dp370
+g3
+S'The Story of Jack and the Beanstalk'
+p371
+sg5
+I9475
+ssS'hole2nar.txt'
+p372
+(dp373
+g3
+S'The Hole THat Was Too Narrow'
+p374
+sg5
+I3229
+ssS'bruce-p.txt'
+p375
+(dp376
+g3
+S'The Adventure of the Bruce-Partington Plans'
+p377
+sg5
+I61792
+ssS'fea2'
+p378
+(dp379
+g3
+S'Waterlogged Klingons by L. Shawn Aiken (1994)'
+p380
+sg5
+I6766
+ssS'psf.txt'
+p381
+(dp382
+g3
+S'The Peasant, the Snake, and the Fox'
+p383
+sg5
+I5284
+ssS'SRE/sre_sei.txt'
+p384
+(dp385
+g3
+S'Solar Realms Elite: Galaxy Sei, by Josh Renaud'
+p386
+sg5
+I20753
+ssS'lgoldbrd.txt'
+p387
+(dp388
+g3
+S'The Fable of the Little Golden Bird'
+p389
+sg5
+I1982
+ssS'goldgoos.txt'
+p390
+(dp391
+g3
+S'The Tale of the Golden Goose'
+p392
+sg5
+I5003
+ssS'mcdonaldl.txt'
+p393
+(dp394
+g3
+S'A Day in McDonaldland by G.I. Joe (June 10, 1986)'
+p395
+sg5
+I6879
+ssS'spam.key'
+p396
+(dp397
+g3
+S'The Key and I, or, My Travels in the Sky, and What I Found There, by Padre Martini, Archdukebishop of West Texas'
+p398
+sg5
+I7296
+ssS'wrt'
+p399
+(dp400
+g3
+S'The Writer by Thomas Nevin Huber'
+p401
+sg5
+I19047
+ssS'keepmodu.txt'
+p402
+(dp403
+g3
+S'Odnaar Keep by David M. Millstein'
+p404
+sg5
+I88567
+ssS'partya.txt'
+p405
+(dp406
+g3
+S'What happened on the Friday last October'
+p407
+sg5
+I9982
+ssS'keeping.insanit'
+p408
+(dp409
+g3
+S'Keeping Insanity in the Closet, by The Weatherman (April 13th, 1988)'
+p410
+sg5
+I9856
+ssS'6napolen.txt'
+p411
+(dp412
+g3
+S'The Adventure of the Six Napoleons'
+p413
+sg5
+I46478
+ssS'dan'
+p414
+(dp415
+g3
+S'Made for Dancing, by Charles Bell'
+p416
+sg5
+I15266
+ssS'safe'
+p417
+(dp418
+g3
+S'Safe Place: A Synopsis, by Michael C. McPherson'
+p419
+sg5
+I9163
+ssS'home.fil'
+p420
+(dp421
+g3
+S'The Homecoming, by Francis W. Porretto of Horse Feathers BBS'
+p422
+sg5
+I7151
+ssS'mazarin.txt'
+p423
+(dp424
+g3
+S'The Adventure of the Mazarin Stone'
+p425
+sg5
+I32321
+ssS'szechuan'
+p426
+(dp427
+g3
+S'The Szechuan Taxi, by Dave Bealer'
+p428
+sg5
+I4599
+ssS'SRE/sre06.txt'
+p429
+(dp430
+g3
+S'Solar Realms Elite VI: The Alliance Restored, by Josh Renaud'
+p431
+sg5
+I26731
+ssS'SRE/sre10.txt'
+p432
+(dp433
+g3
+S'Solar Realms Elite X: Legacies, by Josh Renaud'
+p434
+sg5
+I25725
+ssS'wanderer.fun'
+p435
+(dp436
+g3
+S'Poem by David Redish, The Wanderer'
+p437
+sg5
+I1757
+ssS'jaynejob.asc'
+p438
+(dp439
+g3
+S'Be a Clerk All My Life? Not Me!'
+p440
+sg5
+I6158
+ssS'campfire.txt'
+p441
+(dp442
+g3
+S'The Best Campire Story of the Week: Do you have a B.C.?'
+p443
+sg5
+I2786
+ssS'rock'
+p444
+(dp445
+g3
+S'Rock, by D.M. Hanna'
+p446
+sg5
+I11383
+ssS'buldetal.txt'
+p447
+(dp448
+g3
+S'Details, a story by The Martyr'
+p449
+sg5
+I5395
+ssS'korea.s'
+p450
+(dp451
+g3
+S'The Furry Orphan of War'
+p452
+sg5
+I16019
+ssS'island.poe'
+p453
+(dp454
+g3
+S'The Island of the Fay'
+p455
+sg5
+I11922
+ssS'pphamlin.txt'
+p456
+(dp457
+g3
+S'The Pied Piper of Hamelin'
+p458
+sg5
+I4524
+ssS'SRE/sre09.txt'
+p459
+(dp460
+g3
+S'Solar Realms Elite IX: Survival of the Fittest, by Josh Renaud'
+p461
+sg5
+I26073
+ssS'gemdra.txt'
+p462
+(dp463
+g3
+S'The Story of the Dragons of Gems'
+p464
+sg5
+I4479
+ssS'deer.txt'
+p465
+(dp466
+g3
+S'The Deer, by Andrew P. Varga (1992)'
+p467
+sg5
+I4295
+ssS'bumm'
+p468
+(dp469
+g3
+S'Bummers by Thomas Nevin Huber'
+p470
+sg5
+I12194
+ssS'hansgrtl.txt'
+p471
+(dp472
+g3
+S'The Fable of Hansel and Gretel'
+p473
+sg5
+I6981
+ssS'hound-b.txt'
+p474
+(dp475
+g3
+S'The Hound of the Baskervilles, by Sir Arthur Conan Doyle'
+p476
+sg5
+I328031
+ssS'7voysinb.txt'
+p477
+(dp478
+g3
+S'The Seven Voyages of Sinbad the Sailor'
+p479
+sg5
+I40792
+ssS'outcast.dos'
+p480
+(dp481
+g3
+S'The Outcast, by Winwood Reade, 1933'
+p482
+sg5
+I216738
+ssS'hils'
+p483
+(dp484
+g3
+S'The Hills of Commerce, by Marilyn Hutchings'
+p485
+sg5
+I15359
+ssS'snowqn1.txt'
+p486
+(dp487
+g3
+S'The Fable of the Snow Queen'
+p488
+sg5
+I4597
+ssS'bulhuntr.txt'
+p489
+(dp490
+g3
+S'The Hunter, the Hunted, a story by G. Daniel Flower'
+p491
+sg5
+I19995
+ssS'taxnovel.txt'
+p492
+(dp493
+g3
+S'Back Taxes, a Novel by Paul Mahler (1991-1992)'
+p494
+sg5
+I47601
+ssS'gold3ber.txt'
+p495
+(dp496
+g3
+S'The Story of Goldilocks and the Three Bears'
+p497
+sg5
+I5558
+ssS'beyond.hum'
+p498
+(dp499
+g3
+S'Before the Beyond, by Dallas Vordahl'
+p500
+sg5
+I9789
+ssS'fic7'
+p501
+(dp502
+g3
+S'A Chance Meeting in the Park, by Joe DeRouen'
+p503
+sg5
+I12410
+ssS'SRE/srex.txt'
+p504
+(dp505
+g3
+S'Solar Realms Elite: X1 and X2, by Josh Renaud'
+p506
+sg5
+I37128
+ssS'ltp'
+p507
+(dp508
+g3
+S'Liberty Tree Pub: Her Honour, by D. M. Hanna'
+p509
+sg5
+I20325
+ssS'times.fic'
+p510
+(dp511
+g3
+S'Times Doubles Defect; Publisher Possibly Plinked by Jean Blevins'
+p512
+sg5
+I14479
+ssS'paul_har.sto'
+p513
+(dp514
+g3
+S"Paul Harvey's List of True Real Stories"
+p515
+sg5
+I3226
+ssS'bestwish'
+p516
+(dp517
+g3
+S'FICTION: My Best Wish'
+p518
+sg5
+I2867
+ssS'clevdonk.txt'
+p519
+(dp520
+g3
+S'The Donkey that Thought He Was Clever'
+p521
+sg5
+I1968
+ssS'blabnove.txt'
+p522
+(dp523
+g3
+S'Super Blabnovel-A continuing saga on DATANET'
+p524
+sg5
+I43182
+ssS'mario.txt'
+p525
+(dp526
+g3
+S'MARIO, by Archer Blue: A Short History of Mario'
+p527
+sg5
+I5696
+ssS'qcarroll'
+p528
+(dp529
+g3
+S'How Sailor Ted Got Out of It'
+p530
+sg5
+I1464
+ssS'wlgirl.txt'
+p531
+(dp532
+g3
+S'The Story of the Wise Little Girl'
+p533
+sg5
+I8127
+ssS'lionmane.txt'
+p534
+(dp535
+g3
+S"The Adventure of the Lion's Mane"
+p536
+sg5
+I40548
+ssS'emperor3.txt'
+p537
+(dp538
+g3
+S"The Emperor's Three Questions by Leo Tolstoy"
+p539
+sg5
+I8704
+ssS'hotline4.txt'
+p540
+(dp541
+g3
+S'Hotline! Part IV, by James Zachary'
+p542
+sg5
+I3144
+ssS'spectacl.poe'
+p543
+(dp544
+g3
+S'The Spectacles, by Edgar Allen Poe'
+p545
+sg5
+I55113
+ssS'abyss.txt'
+p546
+(dp547
+g3
+S'How life goes on at the edge of Abyss'
+p548
+sg5
+I6558
+ssS'angry_ca.txt'
+p549
+(dp550
+g3
+S'Cliff-Hanger, a Poem'
+p551
+sg5
+I6648
+ssS'cybersla.txt'
+p552
+(dp553
+g3
+S'Book: Revolt of the Cyberslaves, by Lawrence Dworin (1991)'
+p554
+sg5
+I415872
+ssS'kneeslapper'
+p555
+(dp556
+g3
+S'Kneeslapper by Slafathor (July 23, 1991)'
+p557
+sg5
+I1024
+ssS'progx'
+p558
+(dp559
+g3
+S'Programmer X, by Greg Borek'
+p560
+sg5
+I4891
+ssS'bulwer.lytton'
+p561
+(dp562
+g3
+S'It was a dark and stormy night (The Best of the Bulwer-Lytton Contest)'
+p563
+sg5
+I5737
+ssS'lionwar.txt'
+p564
+(dp565
+g3
+S'The Lion Goes to War (Fable)'
+p566
+sg5
+I1749
+ssS'advsayed.txt'
+p567
+(dp568
+g3
+S"Sayed's Adventures"
+p569
+sg5
+I10019
+ssS'curious.george'
+p570
+(dp571
+g3
+S'Curious Georgie by The Penguin of SubZero AE'
+p572
+sg5
+I4096
+ssS't_zone.jok'
+p573
+(dp574
+g3
+S'Story: Mission Impossible Meets the Twilight Zone'
+p575
+sg5
+I9046
+ssS'quarter.c6'
+p576
+(dp577
+g3
+S'Little White Lines, by Joe Raymundo'
+p578
+sg5
+I214
+ssS'how.ernie.bert'
+p579
+(dp580
+g3
+S'how Ernie and Bert Came to Be by 11th Hour Productions'
+p581
+sg5
+I3968
+ssS'quarter.c1'
+p582
+(dp583
+g3
+S'The Plan, by Shannon Carraher (Part 1)'
+p584
+sg5
+I6852
+ssS'blh.txt'
+p585
+(dp586
+g3
+S"The Birdlover's Holiday, by Andrew P. Varga"
+p587
+sg5
+I18604
+ssS'brain.damage'
+p588
+(dp589
+g3
+S'Brain Damage, by Howard I Cannon, 1979'
+p590
+sg5
+I13472
+ssS'bgb.txt'
+p591
+(dp592
+g3
+S'Beaver Gone Bad! A mini-manuscript by Pete Stocton and Baron Von Crash'
+p593
+sg5
+I3578
+ssS'yukon.txt'
+p594
+(dp595
+g3
+S'The Spell of the Yukon and Other Verses by Robert W. Service'
+p596
+sg5
+I76563
+ssS'tree.txt'
+p597
+(dp598
+g3
+S'Kevin and the Tree'
+p599
+sg5
+I3540
+ssS'hitch3.txt'
+p600
+(dp601
+g3
+S'Complete Transcription of Douglas Adams\' "Life, the Universe and Everything"'
+p602
+sg5
+I327595
+ssS'bookem.1'
+p603
+(dp604
+g3
+S"Boom 'Em Issue #1 (1995)"
+p605
+sg5
+I8735
+ssS'bulfelis.txt'
+p606
+(dp607
+g3
+S'A Story for Cat Lovers'
+p608
+sg5
+I12474
+ssS'thewave'
+p609
+(dp610
+g3
+S'The Navajo and the Bhuddist (October 19, 1992)'
+p611
+sg5
+I14240
+ssS'nigel.2'
+p612
+(dp613
+g3
+S'The Saga of Nigel the Hedgehog 2 (May 25, 1989)'
+p614
+sg5
+I9431
+ssS'lil'
+p615
+(dp616
+g3
+S'A Letter to Lillian by Gay Bost'
+p617
+sg5
+I13764
+ssS'timem.hac'
+p618
+(dp619
+g3
+S'The Time Machine, by H.G. Wells (1898)'
+p620
+sg5
+I185134
+ssS'breaks2.asc'
+p621
+(dp622
+g3
+S'Breaks: The Adventures of Richard Nixon in the 21st Century, by Philip H. Farber (1992-1993)'
+p623
+sg5
+I143725
+ssS'horsdonk.txt'
+p624
+(dp625
+g3
+S'The Horse and the Donkey'
+p626
+sg5
+I2344
+ssS'rocket.sf'
+p627
+(dp628
+g3
+S'The Space Saga of "Rocket" Roger Robinson (Story)'
+p629
+sg5
+I215959
+ssS'aesop11.txt'
+p630
+(dp631
+g3
+S"Aesop's Fables Translated by George Fyler Townsend"
+p632
+sg5
+I229320
+ssS'panama.txt'
+p633
+(dp634
+g3
+S'An Author Argues with his Main Character'
+p635
+sg5
+I5775
+ssS'SRE/sre_feqh.txt'
+p636
+(dp637
+g3
+S'Solar Realms Elite: The Feqh Galaxy, by Josh Renaud'
+p638
+sg5
+I20054
+ssS'ladylust.hum'
+p639
+(dp640
+g3
+S"I have no idea where this came from or where it's going."
+p641
+sg5
+I3794
+ssS'burintrv.66'
+p642
+(dp643
+g3
+S'Interview with William S. Burroughs (1966)'
+p644
+sg5
+I15275
+ssS'long1-3.txt'
+p645
+(dp646
+g3
+S'The Longest Distance by D.W. Boynton (1992)'
+p647
+sg5
+I73544
+ssS'lrrhood.txt'
+p648
+(dp649
+g3
+S'The Story of Little Red Riding Hood'
+p650
+sg5
+I5738
+ssS'parotsha.txt'
+p651
+(dp652
+g3
+S'The Story of the Parrot Shah'
+p653
+sg5
+I7664
+ssS'myeyes'
+p654
+(dp655
+g3
+S'Poem: Through My Eyes'
+p656
+sg5
+I2304
+ssS'empty.txt'
+p657
+(dp658
+g3
+S'The Adventure of the Empty House'
+p659
+sg5
+I48849
+ssS'floc'
+p660
+(dp661
+g3
+S'Matriarchal Shepherd by Marc Edwards'
+p662
+sg5
+I19364
+ssS'healer.txt'
+p663
+(dp664
+g3
+S'The Soul Healer: A Story by Ben Blumenberg'
+p665
+sg5
+I16935
+ssS'obstgoat.txt'
+p666
+(dp667
+g3
+S'The Tale of the Obstinate Goats'
+p668
+sg5
+I869
+ssS'cooldark.txt'
+p669
+(dp670
+g3
+S'STORY: Cool Darkness, by Matthew Carpenter'
+p671
+sg5
+I146795
+ssS'enginer.txt'
+p672
+(dp673
+g3
+S"The Adventure of the Engineer's Thumb"
+p674
+sg5
+I46035
+ssS'pepdegener.txt'
+p675
+(dp676
+g3
+S'Pepsi Degeneration by Morpheous of LOM'
+p677
+sg5
+I4462
+ssS'consumdr.hum'
+p678
+(dp679
+g3
+S'Consumated Dreams, by Melanie Martin Vessels'
+p680
+sg5
+I23989
+ssS'timetrav.txt'
+p681
+(dp682
+g3
+S'The Problem with Time Travel (Story)'
+p683
+sg5
+I9375
+ssS'stairdre.txt'
+p684
+(dp685
+g3
+S'The Stiarway Dram, by Satinka Istari'
+p686
+sg5
+I5130
+ssS'nihgel_8.9'
+p687
+(dp688
+g3
+S'The Saga of Nigel the Hedgehog 8 and 9'
+p689
+sg5
+I16339
+ssS'fleas.txt'
+p690
+(dp691
+g3
+S'Fleas: A Story, by Adam Poszar (1991)'
+p692
+sg5
+I3120
+ssS'freeman.fil'
+p693
+(dp694
+g3
+S'The Last Free Man, by Francis W. Porretto'
+p695
+sg5
+I11352
+ssS'clon'
+p696
+(dp697
+g3
+S'Clones to us! By Thomas Nevin Huber'
+p698
+sg5
+I22943
+ssS'cow.exploder'
+p699
+(dp700
+g3
+S'The Story of the Cow Exploder by CKE Enterprises (1984)'
+p701
+sg5
+I7552
+ssS'dicegame.txt'
+p702
+(dp703
+g3
+S'Guide to Dice Games of Dungeons and Dragons by Reid Bluebaugh'
+p704
+sg5
+I9367
+ssS'fea1'
+p705
+(dp706
+g3
+S'Hula Hoops and Tinker Toys by Nancy VanWormer (1995)'
+p707
+sg5
+I4130
+ssS'terrorbears.txt'
+p708
+(dp709
+g3
+S'The Terror Bears on the Rampage by Darkside 414'
+p710
+sg5
+I4816
+ssS'fea3'
+p711
+(dp712
+g3
+S'Survey Results, by Joe DeRouen (1994)'
+p713
+sg5
+I3111
+ssS'vaincrow.txt'
+p714
+(dp715
+g3
+S'The Parable of the Vain Crow'
+p716
+sg5
+I2645
+ssS'sunday.txt'
+p717
+(dp718
+g3
+S'Sunday, by Nanci (February 20, 1993)'
+p719
+sg5
+I2456
+ssS'girl'
+p720
+(dp721
+g3
+S'Dream Girl by Melina Huddy'
+p722
+sg5
+I14273
+ssS'friend.s'
+p723
+(dp724
+g3
+S"Man's Best Friend, by Marty Weiss"
+p725
+sg5
+I6855
+ssS'mindprob.txt'
+p726
+(dp727
+g3
+S'Mind Probe, by Michael Abbot'
+p728
+sg5
+I12069
+ssS'arctic.txt'
+p729
+(dp730
+g3
+S'The Arctic Circle and Beyond, by Jim Prentice (1990)'
+p731
+sg5
+I30964
+ssS'grav'
+p732
+(dp733
+g3
+S'Memory Cemetery, by Gay Bost'
+p734
+sg5
+I22515
+ssS'bagel.man'
+p735
+(dp736
+g3
+S'Bagel Man, by Aldebaran of 11th Hour Productions'
+p737
+sg5
+I5888
+ssS'elite.app'
+p738
+(dp739
+g3
+S'Fiction: Alex'
+p740
+sg5
+I109637
+ssS'life.txt'
+p741
+(dp742
+g3
+S'Notes towards a story'
+p743
+sg5
+I867
+ssS'gloves.txt'
+p744
+(dp745
+g3
+S'Oops! There was a little messup with the christmas gift!'
+p746
+sg5
+I1679
+ssS'redragon.txt'
+p747
+(dp748
+g3
+S'The Fable of the Red Dragon'
+p749
+sg5
+I2563
+ssS'dicksong.txt'
+p750
+(dp751
+g3
+S'A Manly Wager by Lucillus and a Heaping of Testosterone'
+p752
+sg5
+I8192
+ssS'buggy.txt'
+p753
+(dp754
+g3
+S'Buggy, by Andrew P. Varga (1991)'
+p755
+sg5
+I4376
+ssS'empsjowk.txt'
+p756
+(dp757
+g3
+S'The Empress Jowka'
+p758
+sg5
+I7474
+ssS'candle.hum'
+p759
+(dp760
+g3
+S'The Wind, The Cold, The Candle, by Walter Hawn'
+p761
+sg5
+I19409
+ssS'telefone.txt'
+p762
+(dp763
+g3
+S'The Telephone Rape Story'
+p764
+sg5
+I3405
+ssS'thanksg'
+p765
+(dp766
+g3
+S'A Thanksgiving Prayer, by William S. Burroughs'
+p767
+sg5
+I1415
+ssS'3lpigs.txt'
+p768
+(dp769
+g3
+S'The Story of the 3 Little Pigs'
+p770
+sg5
+I5403
+ssS'spider.txt'
+p771
+(dp772
+g3
+S"The World's Fastest Spider, by Andrew Varga (1991)"
+p773
+sg5
+I4042
+ssS'poplstrm.txt'
+p774
+(dp775
+g3
+S'The Fable of the Poplar and the Stream'
+p776
+sg5
+I4202
+ssS'3student.txt'
+p777
+(dp778
+g3
+S'The Adventure of the Three Students'
+p779
+sg5
+I36368
+ssS'luf'
+p780
+(dp781
+g3
+S'Luffing, by Ron Fleshman'
+p782
+sg5
+I2691
+ssS'dopedenn.txt'
+p783
+(dp784
+g3
+S'The Story of Dopey Dennis'
+p785
+sg5
+I8887
+ssS'traitor.txt'
+p786
+(dp787
+g3
+S'Treason, by Marcus Tullius Cicero'
+p788
+sg5
+I1135
+ssS'withdraw.cyb'
+p789
+(dp790
+g3
+S'My Living Semi-Hell Type Experience Thing, by Urethris, 1992'
+p791
+sg5
+I13668
+ssS'idi.hum'
+p792
+(dp793
+g3
+S'The First Adventures of IDI'
+p794
+sg5
+I19923
+ssS'comp'
+p795
+(dp796
+g3
+S"Computers N' Me, by Rich Griebel"
+p797
+sg5
+I11016
+ssS'kneeslapper.txt'
+p798
+(dp799
+g3
+S'Kneeslapper by Slagathor (July 23, 1991)'
+p800
+sg5
+I1051
+ssS'history5.txt'
+p801
+(dp802
+g3
+S'The Slopes of Te Aroha'
+p803
+sg5
+I140322
+ssS'paink-ws.txt'
+p804
+(dp805
+g3
+S'Painkiller, by William Slattery'
+p806
+sg5
+I23093
+ssS'foxngrap.txt'
+p807
+(dp808
+g3
+S'The Story of the Fox and the Grapes'
+p809
+sg5
+I2368
+ssS'bullove.txt'
+p810
+(dp811
+g3
+S'Three Paragraphs: Excertps from Something'
+p812
+sg5
+I4136
+ssS'SRE/sre_finl.txt'
+p813
+(dp814
+g3
+S'Solar Realms Elite: The Finale by Josh Renaud'
+p815
+sg5
+I33158
+ssS'SRE/sre04.txt'
+p816
+(dp817
+g3
+S'Solar Realms Elite IV: The Confrontation, by Josh Renaud'
+p818
+sg5
+I44198
+ssS'vainsong.txt'
+p819
+(dp820
+g3
+S'A Manly Wager, a Song by Lucillus'
+p821
+sg5
+I10925
+ssS'bran'
+p822
+(dp823
+g3
+S'Branded, by John R. Hillman, Jr.'
+p824
+sg5
+I6914
+ssS'bram'
+p825
+(dp826
+g3
+S'Brambles, by Gordon Chapman'
+p827
+sg5
+I3835
+ssS'lmtchgrl.txt'
+p828
+(dp829
+g3
+S'The Little Matchgirl'
+p830
+sg5
+I3215
+ssS'space.txt'
+p831
+(dp832
+g3
+S'Space Travel by Adam Poszar (1990)'
+p833
+sg5
+I5551
+ssS'aisle.six'
+p834
+(dp835
+g3
+S'Aisle Six, by Morpheous of LOM'
+p836
+sg5
+I4736
+ssS'beggars.txt'
+p837
+(dp838
+g3
+S"The Beggar's Opera, by John Gay, 1728"
+p839
+sg5
+I118389
+ssS'hell4.txt'
+p840
+(dp841
+g3
+S'Donatien Alphonse Francois de Sade (A Story)'
+p842
+sg5
+I5983
+ssS'bookem2'
+p843
+(dp844
+g3
+S"Book 'Em Issue #2 (1995)"
+p845
+sg5
+I10620
+ssS'bookem3'
+p846
+(dp847
+g3
+S"Book 'Em Issue #3 (1995)"
+p848
+sg5
+I15585
+ssS'blasters.fic'
+p849
+(dp850
+g3
+S'Blasters to the Ready! By William E. Collins'
+p851
+sg5
+I1882
+ssS'jackmac.fic'
+p852
+(dp853
+g3
+S"Jackmac's Discovery by Jeff Epstein"
+p854
+sg5
+I14134
+ssS'gay'
+p855
+(dp856
+g3
+S'A Collection of Poetry by Gay Bost (1994)'
+p857
+sg5
+I10523
+ssS'cmoutmou.txt'
+p858
+(dp859
+g3
+S'The Story of The Country Mouse and the Town Mouse'
+p860
+sg5
+I3634
+ssS'mydream.txt'
+p861
+(dp862
+g3
+S'Someone Talks About Some Weird Dreams He Has'
+p863
+sg5
+I2798
+ssS'dskool.txt'
+p864
+(dp865
+g3
+S'Dream School: A Novella'
+p866
+sg5
+I84178
+ssS'5orange.txt'
+p867
+(dp868
+g3
+S'The Story of the Five Orange Pips'
+p869
+sg5
+I40995
+ssS'kharian.txt'
+p870
+(dp871
+g3
+S'The Legends of the Kharianians'
+p872
+sg5
+I8459
+ssS'goldfish.txt'
+p873
+(dp874
+g3
+S'The Little Gold Fish'
+p875
+sg5
+I4948
+ssS'greedog.txt'
+p876
+(dp877
+g3
+S'The Parable of the Greedy Dog'
+p878
+sg5
+I897
+ssS'holmesbk.txt'
+p879
+(dp880
+g3
+S'The Holmes List: A List of Books That Reference or Discuss Sherlock Holmes'
+p881
+sg5
+I29749
+ssS'snowmaid.txt'
+p882
+(dp883
+g3
+S'The Fable of the Snow Maiden'
+p884
+sg5
+I1838
+ssS'lpeargrl.txt'
+p885
+(dp886
+g3
+S'The Little Pear Girl: A Story'
+p887
+sg5
+I4417
+ssS'vgilante.txt'
+p888
+(dp889
+g3
+S'The Vigilante'
+p890
+sg5
+I671603
+ssS'blabnove.hum'
+p891
+(dp892
+g3
+S'The Super Blab Novel, from Datanet'
+p893
+sg5
+I43263
+ssS'darkness.txt'
+p894
+(dp895
+g3
+S'The Heart of Darkness by Joseph Conrad'
+p896
+sg5
+I217124
+ssS'prince.art'
+p897
+(dp898
+g3
+S'The Princess vs. the Principal, by Marc Perkel'
+p899
+sg5
+I3643
+ssS'4moons.txt'
+p900
+(dp901
+g3
+S'Fiction: The 4 Moons of Death'
+p902
+sg5
+I15702
+ssS'blak'
+p903
+(dp904
+g3
+S'Lunch in the Park, by Francis U. Kaltenbaugh'
+p905
+sg5
+I9951
+ssS'rainda.txt'
+p906
+(dp907
+g3
+S'Rain Dance (Mechwarrior Fan Fiction) by Douglas M. Warren'
+p908
+sg5
+I16946
+ssS'spiders.txt'
+p909
+(dp910
+g3
+S'Story about Harvey and Spiders'
+p911
+sg5
+I8217
+ssS'immorti.hum'
+p912
+(dp913
+g3
+S'Immorti, by Todd Rich'
+p914
+sg5
+I18491
+ssS'foxnstrk.txt'
+p915
+(dp916
+g3
+S'The Story of the Fox and the Stork'
+p917
+sg5
+I2079
+ssS'empnclot.txt'
+p918
+(dp919
+g3
+S"The Emperor's New Clothes"
+p920
+sg5
+I6198
+ssS'SRE/sre08.txt'
+p921
+(dp922
+g3
+S'Solar Realms Elite VIII: Kazik, by Josh Renaud'
+p923
+sg5
+I33170
+ssS'mindwar'
+p924
+(dp925
+g3
+S'Mind War by William S. Burroughs'
+p926
+sg5
+I5424
+ssS'solitary.txt'
+p927
+(dp928
+g3
+S'The Adventure of the Solitary Cyclist'
+p929
+sg5
+I43869
+ssS'socialvikings.txt'
+p930
+(dp931
+g3
+S'Social Vikings by The Flat Tire (August, 1988)'
+p932
+sg5
+I6845
+ssS'bishop00.txt'
+p933
+(dp934
+g3
+S'Pyramid Scheme, by Douglas M. Warren, 1993'
+p935
+sg5
+I83681
+ssS'poem-4.txt'
+p936
+(dp937
+g3
+S'Poetry: "An Ode to Death" - By Us! (October 19, 1993)'
+p938
+sg5
+I1192
+ssS'bulolli1.txt'
+p939
+(dp940
+g3
+S"The Ill-Fated Voyages of Cap'n Roger, by Julius M. Brown (1989)"
+p941
+sg5
+I3960
+ssS'adler.txt'
+p942
+(dp943
+g3
+S'The Chronicles of Astrus II: Father Adler by Ben Blumenberg'
+p944
+sg5
+I12778
+ssS'blind.txt'
+p945
+(dp946
+g3
+S'Blind Sight, by Lyn Nichols, August 1993'
+p947
+sg5
+I7108
+ssS'day.in.mcdonald'
+p948
+(dp949
+g3
+S'A Day in McDonaldland by G.I. Joe of DETAC (June 10, 1986)'
+p950
+sg5
+I6784
+ssS'lionbird'
+p951
+(dp952
+g3
+S'Lionbirds, by MArtin R. Crim (1994)'
+p953
+sg5
+I6605
+ssS'SRE/sre07.txt'
+p954
+(dp955
+g3
+S'Solar Realms Elite 7: Petros, by Josh Renaud'
+p956
+sg5
+I23597
+ssS'bagelman.txt'
+p957
+(dp958
+g3
+S'Bagel-Man, by Aldebaran of 11th Hour Productions'
+p959
+sg5
+I5892
+ssS'SRE/sre01.txt'
+p960
+(dp961
+g3
+S'SRE: The Saga Of The Best SRE Game Ever Played! By Josh Renaud'
+p962
+sg5
+I11278
+ssS'flktrp.txt'
+p963
+(dp964
+g3
+S'Flak Trap (Story) by Brendan Meara (Juanry 18, 1995)'
+p965
+sg5
+I7320
+ssS'uglyduck.txt'
+p966
+(dp967
+g3
+S'The Fable of the Ugly Duckling'
+p968
+sg5
+I4683
+ssS'fgoose.txt'
+p969
+(dp970
+g3
+S'A List of Father Good Stories'
+p971
+sg5
+I75471
+ssS'burintrv.92'
+p972
+(dp973
+g3
+S'Which is the Fly and Which is the Human? (Interview with William S. Burroughs and David Cronenberg 1992, Equire Magazine'
+p974
+sg5
+I26710
+ssS'disco.be.fun'
+p975
+(dp976
+g3
+S'Disco Can By Fun, by Aldebaran of 11th Hour Productions'
+p977
+sg5
+I3840
+ssS'nitepeek.sto'
+p978
+(dp979
+g3
+S'"Peek in the Night" by Night Words'
+p980
+sg5
+I14156
+ssS'jim.asc'
+p981
+(dp982
+g3
+S'The Book of Jim'
+p983
+sg5
+I1612
+ssS'stsgreek'
+p984
+(dp985
+g3
+S"It's All Greek to uncle Thaddeus, by Joe DeRouen (1993)"
+p986
+sg5
+I9245
+ssS'roger1.txt'
+p987
+(dp988
+g3
+S'In Residence by KaRylin'
+p989
+sg5
+I44564
+ssS'sick-kid.txt'
+p990
+(dp991
+g3
+S'The Sick Kids: Story by Roger M. Wilcox'
+p992
+sg5
+I319013
+ssS'bluebrd.txt'
+p993
+(dp994
+g3
+S'Bluebeard'
+p995
+sg5
+I7026
+ssS'sucker.txt'
+p996
+(dp997
+g3
+S'The Dark Sucker, by Quantum Mechanic'
+p998
+sg5
+I3813
+ssS'mike.txt'
+p999
+(dp1000
+g3
+S'An Ode to Mike, by Alien'
+p1001
+sg5
+I712
+ssS'burintrv.78'
+p1002
+(dp1003
+g3
+S'William S. Burroughs: A Sketch (July 1978)'
+p1004
+sg5
+I12183
+ssS'pussboot.txt'
+p1005
+(dp1006
+g3
+S'The Story of Puss in Boots'
+p1007
+sg5
+I6174
+ssS'fear.hum'
+p1008
+(dp1009
+g3
+S'Fear of Growing Old'
+p1010
+sg5
+I6750
+ssS'wisteria.txt'
+p1011
+(dp1012
+g3
+S'The Adventure of Wisteria Lodge'
+p1013
+sg5
+I64414
+ssS'nigel.1'
+p1014
+(dp1015
+g3
+S'The Saga of Nigel the Hedgehog'
+p1016
+sg5
+I4725
+ssS'asop'
+p1017
+(dp1018
+g3
+S'Updating Aesop, or The Old Lady and the Crypt or Blood'
+p1019
+sg5
+I2037
+ssS'tuc_mees'
+p1020
+(dp1021
+g3
+S'The Ed Meese Commission presents Pornography Masquerading as Literature, by Tess Truehard and Gurn Blanston'
+p1022
+sg5
+I6372
+ssS'shulk.txt'
+p1023
+(dp1024
+g3
+S'The Fable of the Hunter and the Hunted'
+p1025
+sg5
+I17152
+ssS'reality.txt'
+p1026
+(dp1027
+g3
+S'The Reality of Our Situation by Kortron'
+p1028
+sg5
+I5761
+ssS'wolf7kid.txt'
+p1029
+(dp1030
+g3
+S'The Wolf and the Seven Kids'
+p1031
+sg5
+I5786
+ssS'cum'
+p1032
+(dp1033
+g3
+S'Come Into my World by Thomas NEvin Huber'
+p1034
+sg5
+I6757
+ssS'melissa.txt'
+p1035
+(dp1036
+g3
+S'Melissa and the Green Dragon'
+p1037
+sg5
+I6509
+ssS'sqzply.txt'
+p1038
+(dp1039
+g3
+S'Squeeze Play, by Michael A. Stackpole (1989)'
+p1040
+sg5
+I60800
+ssS'psi'
+p1041
+(dp1042
+g3
+S'Psicop, by Jack Hillman'
+p1043
+sg5
+I34432
+ssS'adv_alad.txt'
+p1044
+(dp1045
+g3
+S'The Adventures of Aladdin'
+p1046
+sg5
+I9908
+ssS'frogp.txt'
+p1047
+(dp1048
+g3
+S'The Story of the Frog Prince, by Andrew Varga'
+p1049
+sg5
+I5311
+ssS'quest'
+p1050
+(dp1051
+g3
+S'The Quest for Axe of the Dwarven Lords by Bruce RW. Reisman'
+p1052
+sg5
+I128319
+ssS'gatherng.txt'
+p1053
+(dp1054
+g3
+S'Collection of Poetry by David Fox (1990)'
+p1055
+sg5
+I10397
+ssS'reap'
+p1056
+(dp1057
+g3
+S'The Reaper, by Gay Bost'
+p1058
+sg5
+I15152
+ssS'bigred.hum'
+p1059
+(dp1060
+g3
+S'Big Red Riding Cape'
+p1061
+sg5
+I10356
+ssS'fred.txt'
+p1062
+(dp1063
+g3
+S'The Story of Fred.'
+p1064
+sg5
+I13304
+ssS'peace.fun'
+p1065
+(dp1066
+g3
+S'Vision of Peace on Earth'
+p1067
+sg5
+I653
+ssS'poem-1.txt'
+p1068
+(dp1069
+g3
+S'Poetry: A Song of Love (October 25, 1993)'
+p1070
+sg5
+I1760
+ssS'vampword.txt'
+p1071
+(dp1072
+g3
+S"A Vampyre's Words: Poem"
+p1073
+sg5
+I1108
+ssS'musgrave.txt'
+p1074
+(dp1075
+g3
+S'The Musgrave Ritual (Story)'
+p1076
+sg5
+I42029
+ssS'snow.txt'
+p1077
+(dp1078
+g3
+S'Story about Ed, again badly formatted'
+p1079
+sg5
+I12351
+ssS'glimpse1.txt'
+p1080
+(dp1081
+g3
+S'A Glimpse Into My Mind at 12:45pm, by Sean M. Gomez (1993)'
+p1082
+sg5
+I3056
+ssS'shoscomb.txt'
+p1083
+(dp1084
+g3
+S'The Adventure of Shoscombe Old Place'
+p1085
+sg5
+I34558
+ssS'inter'
+p1086
+(dp1087
+g3
+S'Submerged Interface, by Gay Bost'
+p1088
+sg5
+I16939
+ssS'cooldark.sto'
+p1089
+(dp1090
+g3
+S'Cool Darkness: A Cyberpunk Novel by Matthew Carpenter'
+p1091
+sg5
+I146795
+ssS'deal'
+p1092
+(dp1093
+g3
+S'Dealer, by Robbie D. Whiting'
+p1094
+sg5
+I10658
+ssS'immortal'
+p1095
+(dp1096
+g3
+S'Immortality by William S. Burroughs'
+p1097
+sg5
+I12264
+ssS'enchdup.hum'
+p1098
+(dp1099
+g3
+S'The Enchanted Duplicator, by Walt Willis and Bob Shaw'
+p1100
+sg5
+I95232
+ssS'hop-frog.poe'
+p1101
+(dp1102
+g3
+S'The Story of Hop Frog'
+p1103
+sg5
+I21472
+ssS'psyc'
+p1104
+(dp1105
+g3
+S'Psyche and Cupid: A Theory, by Dr. Harold Levdahed'
+p1106
+sg5
+I9382
+ssS's&m_that'
+p1107
+(dp1108
+g3
+S"John's Diner: Who Was The Guy? By Lucia Chambers"
+p1109
+sg5
+I6465
+ssS'16.lws'
+p1110
+(dp1111
+g3
+S'Two Guys in a Garage, by M. Pshota'
+p1112
+sg5
+I15294
+ssS'the-tree.txt'
+p1113
+(dp1114
+g3
+S'The Tree: A Poem'
+p1115
+sg5
+I558
+ssS'whgdsreg.reg'
+p1116
+(dp1117
+g3
+S'Introduction to the Neolithic Great Goddess, by Ben Blumenberg (February 12, 1992)'
+p1118
+sg5
+I7570
+ssS'frum'
+p1119
+(dp1120
+g3
+S'The Story of Ronald Frump, by Dave Bealer'
+p1121
+sg5
+I4219
+ssS'vday.hum'
+p1122
+(dp1123
+g3
+S"The Valentine's Day Blues, by B.A. Nilsson"
+p1124
+sg5
+I11086
+ssS'berternie.txt'
+p1125
+(dp1126
+g3
+S'How Ernie and Bert Came to Be, by 11th Hour Productions'
+p1127
+sg5
+I3967
+ssS'pregn.txt'
+p1128
+(dp1129
+g3
+S'Pregnant Pause by Dorothy Lindman'
+p1130
+sg5
+I10025
+ssS'SRE/sretrade.txt'
+p1131
+(dp1132
+g3
+S'The SRE Commerce and Trade Theories, by Josh Renaud'
+p1133
+sg5
+I9008
+ssS'poem-2.txt'
+p1134
+(dp1135
+g3
+S'Poetry: Broken Heats, by Kylis Noren (October 19, 1993)'
+p1136
+sg5
+I1713
+ssS'crabhern.txt'
+p1137
+(dp1138
+g3
+S'The Story of the Crab and the Heron'
+p1139
+sg5
+I2181
+ssS'sleprncs.txt'
+p1140
+(dp1141
+g3
+S'The Sleeping Princess (Fable)'
+p1142
+sg5
+I6014
+ssS'fearmnky'
+p1143
+(dp1144
+g3
+S'Fear and the Monkey (A Ouija Board Poem) by William S. Burroughs (1984)'
+p1145
+sg5
+I1309
+ssS'musibrem.txt'
+p1146
+(dp1147
+g3
+S'The Musicians of Bremen'
+p1148
+sg5
+I3579
+ssS'14.lws'
+p1149
+(dp1150
+g3
+S'A Smart Bomb with a Language Parser'
+p1151
+sg5
+I5261
+ssS'6ablemen.txt'
+p1152
+(dp1153
+g3
+S'The Story of the Six Able Men'
+p1154
+sg5
+I6948
+ssS'quarter.c19'
+p1155
+(dp1156
+g3
+S'Hometown Ways, by Amy Slavin'
+p1157
+sg5
+I4636
+ssS'quarter.c18'
+p1158
+(dp1159
+g3
+S'Bearing Down, by John Dudley'
+p1160
+sg5
+I5955
+ssS'quarter.c11'
+p1161
+(dp1162
+g3
+S'I Spoke with the Sun, by Caroline Kennedy (And Other Poems)'
+p1163
+sg5
+I1322
+ssS'quarter.c10'
+p1164
+(dp1165
+g3
+S'Tea Time with the Devil, by Brant Swancer'
+p1166
+sg5
+I7379
+ssS'quarter.c13'
+p1167
+(dp1168
+g3
+S'The Mission, by Jon Lang'
+p1169
+sg5
+I12942
+ssS'quarter.c12'
+p1170
+(dp1171
+g3
+S'Welcome to the Planet of Kampf, by Jim Zachary'
+p1172
+sg5
+I4240
+ssS'quarter.c15'
+p1173
+(dp1174
+g3
+S'My Father and Me, by Mike Russello'
+p1175
+sg5
+I1281
+ssS'quarter.c14'
+p1176
+(dp1177
+g3
+S'Leftover Stew, by Patrick Barnes'
+p1178
+sg5
+I5757
+ssS'quarter.c17'
+p1179
+(dp1180
+g3
+S'Blind Fate, by Toby Bradley'
+p1181
+sg5
+I7438
+ssS'quarter.c16'
+p1182
+(dp1183
+g3
+S'Under the Weeping Willow Tree, by Patrick Miner'
+p1184
+sg5
+I598
+ssS'fic2'
+p1185
+(dp1186
+g3
+S'Experiment, by Ed Davis (1993)'
+p1187
+sg5
+I36396
+ssS'fic3'
+p1188
+(dp1189
+g3
+S'Ouija Warning, by Ed Davis (1993)'
+p1190
+sg5
+I23996
+ssS'fic1'
+p1191
+(dp1192
+g3
+S'Beacons of Light, by L. Shawn Aiken (1995)'
+p1193
+sg5
+I46084
+ssS'bgcspoof.txt'
+p1194
+(dp1195
+g3
+S'Mega-Yonkers 2038 : The Story of Knight Foils: Bubble Gum Cards, by Ryan Mathews, January 1992'
+p1196
+sg5
+I20361
+ssS'fic4'
+p1197
+(dp1198
+g3
+S'A Close Encounter of a Different Kind, by Sylvia L. Ramsey (1993)'
+p1199
+sg5
+I14549
+ssS'fic5'
+p1200
+(dp1201
+g3
+S'The Imp, by Ed Davis (1993)'
+p1202
+sg5
+I31809
+ssS'stainles.ana'
+p1203
+(dp1204
+g3
+S'A Cool 3.7 Million, by The Stainless Steal Rat'
+p1205
+sg5
+I3247
+ssS'aesopa10.txt'
+p1206
+(dp1207
+g3
+S"Aesop's Fables (84 of Them) from The PaperLess Readers Club"
+p1208
+sg5
+I66376
+ssS'bulnoopt.txt'
+p1209
+(dp1210
+g3
+S'No Options Left, by G. Daniel Flower'
+p1211
+sg5
+I7502
+ssS'charlie.txt'
+p1212
+(dp1213
+g3
+S'Cosmic Charlie by Colin Campbell'
+p1214
+sg5
+I21045
+ssS'quarter.c9'
+p1215
+(dp1216
+g3
+S'The Rose, by Suzy Edmonson'
+p1217
+sg5
+I1561
+ssS'quarter.c8'
+p1218
+(dp1219
+g3
+S'The Singer in the Depths by Steven Myers'
+p1220
+sg5
+I12726
+ssS'quarter.c5'
+p1221
+(dp1222
+g3
+S'Peel Me Away, by Bill DeClercq'
+p1223
+sg5
+I1640
+ssS'quarter.c4'
+p1224
+(dp1225
+g3
+S'A Savage Projectile, by Steve Gaines'
+p1226
+sg5
+I280
+ssS'quarter.c7'
+p1227
+(dp1228
+g3
+S'At Midnight, by Karin Johnson'
+p1229
+sg5
+I1306
+ssS'SRE/sre05.txt'
+p1230
+(dp1231
+g3
+S'Solar Realms Elite V: The Underground, by Josh Renaud'
+p1232
+sg5
+I20787
+ssS'sight.txt'
+p1233
+(dp1234
+g3
+S'Story about Jamie, badly formatted'
+p1235
+sg5
+I10173
+ssS'quarter.c3'
+p1236
+(dp1237
+g3
+S'The Quarantine, by Moses Domingo'
+p1238
+sg5
+I18023
+ssS'quarter.c2'
+p1239
+(dp1240
+g3
+S'Remembering, by Kristin Feyen'
+p1241
+sg5
+I6990
+ssS'helmfuse.txt'
+p1242
+(dp1243
+g3
+S'Ashtray and Gherkin (Helmet Fusion Specialists)'
+p1244
+sg5
+I2122
+ssS'unluckwr.txt'
+p1245
+(dp1246
+g3
+S'The Fable of the Unlucky Warrior'
+p1247
+sg5
+I4128
+ssS'piracy.sto'
+p1248
+(dp1249
+g3
+S'Arrr! The Pirates have arrived!'
+p1250
+sg5
+I19929
+ssS'veiledl.txt'
+p1251
+(dp1252
+g3
+S'The Adventure of the Veiled Lodger'
+p1253
+sg5
+I24615
+ssS'fish.txt'
+p1254
+(dp1255
+g3
+S'Once There Was a Fish by Doug Rosentrater'
+p1256
+sg5
+I2725
+ssS'bern'
+p1257
+(dp1258
+g3
+S'The Adventures of Bert and Bernece, by Francis U. Kaltenbaugh'
+p1259
+sg5
+I2615
+ssS'confilct.fun'
+p1260
+(dp1261
+g3
+S'Conflict, by Jason Scott'
+p1262
+sg5
+I2469
+ssS'goldbug.poe'
+p1263
+(dp1264
+g3
+S'The Gold Bug, by Poe'
+p1265
+sg5
+I78372
+ssS'bulnland.txt'
+p1266
+(dp1267
+g3
+S'A New Land, by Vengeance'
+p1268
+sg5
+I7517
+ssS'100west.txt'
+p1269
+(dp1270
+g3
+S'Going 100 West by 53 North by Jim Prentice (1990)'
+p1271
+sg5
+I20839
+ssS'mtinder.txt'
+p1272
+(dp1273
+g3
+S'The Story of the Magic Tinderbox'
+p1274
+sg5
+I5057
+ssS'jerichms.hum'
+p1275
+(dp1276
+g3
+S'Bricks In The Wall, by M.D. Roccatani'
+p1277
+sg5
+I5851
+ssS'robotech'
+p1278
+(dp1279
+g3
+S'Book Excerpt: Protoculture and the Children of the Shadow (Robotech)'
+p1280
+sg5
+I233001
+ssS'mattress.txt'
+p1281
+(dp1282
+g3
+S'Once Upon a Mattress, by Nikolai Kingsley, 1995'
+p1283
+sg5
+I13120
+ssS'quickfix'
+p1284
+(dp1285
+g3
+S'Quick Fix, by William S. Burroughs'
+p1286
+sg5
+I1291
+ssS'bulprint.txt'
+p1287
+(dp1288
+g3
+S'Prints of the City, by G. Daniel Flower'
+p1289
+sg5
+I33768
+ssS'textfile.primer'
+p1290
+(dp1291
+g3
+S"The Ramsacker's Textfile Primer by The Ramsacker of Pieces of Eight (July 27, 1989)"
+p1292
+sg5
+I6528
+ssS'deathmrs.d'
+p1293
+(dp1294
+g3
+S'The Death of Ms. D, by William S. Burroughs'
+p1295
+sg5
+I5163
+ssS'monksol.txt'
+p1296
+(dp1297
+g3
+S'The Secret of Monkey Island Unvield by SYNDICATE'
+p1298
+sg5
+I16278
+ssS'fable.txt'
+p1299
+(dp1300
+g3
+S'The Fable, by Ben Blumenberg'
+p1301
+sg5
+I12199
+ssS'horswolf.txt'
+p1302
+(dp1303
+g3
+S'The Horse and the Wolf'
+p1304
+sg5
+I2085
+ssS'archive'
+p1305
+(dp1306
+g3
+S'A Collection of Various Good Stories'
+p1307
+sg5
+I163840
+ssS'arcadia.sty'
+p1308
+(dp1309
+g3
+S'Arcadia, a Story'
+p1310
+sg5
+I64484
+ssS'foxncrow.txt'
+p1311
+(dp1312
+g3
+S'The Story of the Fox and the Crow'
+p1313
+sg5
+I2179
+ssS'plescopm.txt'
+p1314
+(dp1315
+g3
+S'Asleep by Craig Plesco'
+p1316
+sg5
+I6408
+ssS'oxfrog.txt'
+p1317
+(dp1318
+g3
+S'The Fable of the Ox and the Frog'
+p1319
+sg5
+I1869
+ssS'floobs.txt'
+p1320
+(dp1321
+g3
+S'The Cube of Shalube...By Dr. Muess (June 24, 1989)'
+p1322
+sg5
+I5126
+ssS'gulliver.txt'
+p1323
+(dp1324
+g3
+S"Gulliver's Travels, by Johnathan Swift (1726)"
+p1325
+sg5
+I708064
+ssS'antcrick.txt'
+p1326
+(dp1327
+g3
+S'The Fable of the Ant and the Cricket'
+p1328
+sg5
+I2035
+ssS'dtruck.txt'
+p1329
+(dp1330
+g3
+S"Dad's Pickup, by Andrew P. Varga"
+p1331
+sg5
+I8862
+ssS'tin'
+p1332
+(dp1333
+g3
+S'Tinned Warmth by Gordon Chapman'
+p1334
+sg5
+I2795
+ssS'nigel.3'
+p1335
+(dp1336
+g3
+S'The Saga of Nigel the Hedgehog 3 (June 2, 1989)'
+p1337
+sg5
+I9668
+ssS'nigel.4'
+p1338
+(dp1339
+g3
+S'The Saga of Nigel the Hedgehog 4 (June 2, 1989)'
+p1340
+sg5
+I8845
+ssS'nigel.5'
+p1341
+(dp1342
+g3
+S'The Saga of Nigel the Hedgehog 5 (June 12, 1989)'
+p1343
+sg5
+I6722
+ssS'nigel.6'
+p1344
+(dp1345
+g3
+S'The Saga of Nigel the Hedgehog 6 (June 12, 1989)'
+p1346
+sg5
+I9980
+ssS'nigel.7'
+p1347
+(dp1348
+g3
+S'The Saga of Nigel the Hedgehog 7 (june 17, 1989)'
+p1349
+sg5
+I8226
+ssS'running.txt'
+p1350
+(dp1351
+g3
+S'Story: Running'
+p1352
+sg5
+I49286
+ssS'missing.txt'
+p1353
+(dp1354
+g3
+S'The Adventure of the Missing Three-Quarter (A story)'
+p1355
+sg5
+I45497
+ssS'weaver.txt'
+p1356
+(dp1357
+g3
+S'Infromation about Spellweavers'
+p1358
+sg5
+I4411
+ssS'encamp01.txt'
+p1359
+(dp1360
+g3
+S'Saturday Night at the Shindar Encampment by Lucillus'
+p1361
+sg5
+I4096
+ssS'aquith.txt'
+p1362
+(dp1363
+g3
+S'My Lord Aquith: Novella by Yves Barbero'
+p1364
+sg5
+I50520
+ssS's&m_plot'
+p1365
+(dp1366
+g3
+S"The Plot Thickens: A Writer's Dream, by Cecilio Morales"
+p1367
+sg5
+I8839
+ssS'pinocch.txt'
+p1368
+(dp1369
+g3
+S'The Story of Pinocchio'
+p1370
+sg5
+I19116
+ssS'rid.txt'
+p1371
+(dp1372
+g3
+S'Getting Rid of the Riddler, by Alien'
+p1373
+sg5
+I895
+ssS'graymare.txt'
+p1374
+(dp1375
+g3
+S'Nightmare in Grey by Fredric Brown'
+p1376
+sg5
+I3211
+ssS'breaks3.asc'
+p1377
+(dp1378
+g3
+S'Breaks: The Adventures of Richard Nixon in the 21st Century, by Philip H. Farber (1992-1993)'
+p1379
+sg5
+I106680
+ssS'advtthum.txt'
+p1380
+(dp1381
+g3
+S'The Adventures of Tom Thumb'
+p1382
+sg5
+I4373
+ssS'monkking.txt'
+p1383
+(dp1384
+g3
+S'The Story of the Monkey King'
+p1385
+sg5
+I2703
+ssS'modemhippy.txt'
+p1386
+(dp1387
+g3
+S'Modem Hippy: A Poem by Morpheous of LOM'
+p1388
+sg5
+I2604
+ssS'ghost'
+p1389
+(dp1390
+g3
+S'Time for Flowers, by Gay Bost'
+p1391
+sg5
+I16110
+ssS'descent.poe'
+p1392
+(dp1393
+g3
+S'A Descent into the Maelstrom'
+p1394
+sg5
+I39201
+ssS'lmermaid.txt'
+p1395
+(dp1396
+g3
+S'The Fable of the Little Mermaid'
+p1397
+sg5
+I12445
+ssS'lament.txt'
+p1398
+(dp1399
+g3
+S"Offender E477439's Lament"
+p1400
+sg5
+I7123
+ssS'SRE/sre03.txt'
+p1401
+(dp1402
+g3
+S"Solar Realms Elite: Ultra's Untold Story by Josh Renaud"
+p1403
+sg5
+I8555
+ss.
