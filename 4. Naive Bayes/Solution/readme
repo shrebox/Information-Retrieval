@@ -1,0 +1,9 @@
+Code File: NB_TFIDF.ipynb 
+Analysis File: Report.pdf
+Rest data files and readme.
+
+P.S. extra_data folder contains the intermediate files used to generate the final data files.
+
+To run the program, keep all the files in the same folder and open Jupyter Notebook to run the program stepwise, else create a python file out of it.
+
+P.S. Install all the dependencies mentioned in the python notebook.
